@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DressTheKidPage.qml</file>
+    </qresource>
+</RCC>
